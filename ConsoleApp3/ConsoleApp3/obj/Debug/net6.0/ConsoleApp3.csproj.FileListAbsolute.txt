@@ -1,0 +1,15 @@
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.exe
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.deps.json
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.runtimeconfig.json
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.dll
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\bin\Debug\net6.0\ConsoleApp3.pdb
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.AssemblyReference.cache
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfoInputs.cache
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.AssemblyInfo.cs
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.dll
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\refint\ConsoleApp3.dll
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.pdb
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ConsoleApp3.genruntimeconfig.cache
+F:\Code\repository_2\ConsoleApp3\ConsoleApp3\obj\Debug\net6.0\ref\ConsoleApp3.dll
